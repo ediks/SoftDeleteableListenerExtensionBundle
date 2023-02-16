@@ -1,7 +1,10 @@
 {
-    "name": "evence/soft-deleteable-extension-bundle",
+    "name": "ediks/soft-deleteable-extension-bundle",
     "description": "Fixed to work with Symfony 5.0+. Adjusted from E-vence/SoftDeleteableListenerExtensionBundle.",
     "authors": [{
+        "name": "Erik Diks",
+        "homepage": "https://github.com/ediks/SoftDeleteableListenerExtensionBundle"
+    }, {
         "name": "Ruben Harms",
         "homepage": "http://www.rubenharms.nl/"
     }],
